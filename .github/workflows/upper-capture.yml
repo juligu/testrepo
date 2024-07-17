@@ -9,6 +9,8 @@ on:
 
 jobs:
   capture:
+    permissions:
+      contents: write
     strategy:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
@@ -26,7 +28,15 @@ jobs:
       - run: go build
       - run: ls
       - run: go test -v
-      - uses: actions/upload-artifact@v4
+      - uses: softprops/action-gh-release@v2
         with:
-          path: ./upper/upper*
-          name: "build-${{ matrix.os }}"
+          files: ./upper/upper*
+          body: "changes"
+          tag_name: ${{ github.ref_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+    #   - uses: actions/upload-artifact@v4
+    #     with:
+    #       path: ./upper/upper*
+    #       name: "build-${{ matrix.os }}"
+        
