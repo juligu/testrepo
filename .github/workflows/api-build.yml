@@ -33,6 +33,7 @@ jobs:
       - uses: actions/download-artifact@v4.1.8
         with:
           name: api
+          path: api/release
       - run: ls
       - run: |
           iisreset /stop
