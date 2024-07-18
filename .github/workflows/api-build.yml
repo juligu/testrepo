@@ -33,6 +33,7 @@ jobs:
       - uses: actions/download-artifact@v4.1.8
         with:
           name: api
+      - run: ls
       - run: |
           iisreset /stop
           Copy-Item -Path .\api\release\* -Destination C:\inetpub\wwwroot\api -Recurse -Force
