@@ -19,7 +19,7 @@ jobs:
         working-directory: ./api
       - run: dotnet test
         working-directory: ./api
-      - run: dotnet publish -c Release -o ./api/bin
+      - run: dotnet publish -c Release -o ./api/bin /p:WebPublishMethod=Package
         working-directory: ./api
       - uses: actions/upload-artifact@v4
         with:
