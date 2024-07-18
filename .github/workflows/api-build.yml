@@ -27,6 +27,7 @@ jobs:
           name: api
   deploy:
     name: deploy-api
+    needs: build
     runs-on: seft-hosted
     steps:
       - uses: actions/download-artifact@4.1.8
