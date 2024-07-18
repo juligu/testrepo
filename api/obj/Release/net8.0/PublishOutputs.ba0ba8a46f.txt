@@ -1,0 +1,12 @@
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\api.exe
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\appsettings.Development.json
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\appsettings.json
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\api.dll
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\api.deps.json
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\api.runtimeconfig.json
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\api.pdb
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\Microsoft.OpenApi.dll
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juligu\localDesktop\testGHAc\testrepo\api\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
