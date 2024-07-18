@@ -25,4 +25,15 @@ jobs:
         with:
           path: ./api/release/**
           name: api
+  deploy:
+    name: deploy-api
+    runs-on: seft-hosted
+    steps:
+      - uses: actions/download-artifact@4.1.8
+        with:
+          name: api
+      - run: |
+          iisreset /stop
+          Copy-Item -Path .\api\release\* -Destination C:\inetpub\wwwroot\api -Recurse -Force
+          iisreset /start
       
