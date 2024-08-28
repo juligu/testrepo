@@ -1,0 +1,12 @@
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\eShopLegacy.Common.dll.config
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\eShopLegacy.Common.dll
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\eShopLegacy.Common.pdb
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\EntityFramework.dll
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\EntityFramework.xml
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\obj\Debug\eShopLegacy.Common.csproj.AssemblyReference.cache
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\obj\Debug\eShopLegacy.Common.csproj.CoreCompileInputs.cache
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\obj\Debug\eShopLeg.EA3ED7DC.Up2Date
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\obj\Debug\eShopLegacy.Common.dll
+C:\CR\Publish\Demos\Module A\01-UpgradePlanner\eShopLegacyMVC\eShopLegacy.Common\obj\Debug\eShopLegacy.Common.pdb
